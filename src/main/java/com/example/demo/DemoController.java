@@ -9,6 +9,6 @@ public class DemoController {
     @GetMapping("/")
     public String  hello(){
 
-        return  "Demo para practicar ci cd ya acabado pues pa";
+        return  "Demo para practicar ci cd ya acabado pues paewegew";
     }
 }
